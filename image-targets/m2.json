@@ -1,0 +1,25 @@
+{
+  "imagePath": "image-targets/m2_luminance.png",
+  "resources": {
+    "originalImage": "m2_original.png",
+    "croppedImage": "m2_cropped.png",
+    "thumbnailImage": "m2_thumbnail.png",
+    "geometryImage": "m2_geometry.png",
+    "luminanceImage": "m2_luminance.png"
+  },
+  "name": "m2",
+  "type": "PLANAR",
+  "properties": {
+    "top": 466,
+    "left": 0,
+    "width": 800,
+    "height": 1066,
+    "isRotated": true,
+    "originalWidth": 800,
+    "originalHeight": 2000
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": false,
+  "created": 1772224494456,
+  "updated": 1772240904359
+}
