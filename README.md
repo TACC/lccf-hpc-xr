@@ -1,6 +1,6 @@
 # LCCF HPC XR - AR SuperCity
 
-Leadership Class Computing Facility (LCCF) High-Performance Computing (HPC) Extended Reality (XR) Supercity is a web-based augmented reality (AR) application that delivers an educational experience and interactive AR exhibit designed to help users learn how supercomputers work. The experience runs directly in a mobile web browser and overlays interactive 3D models of supercomputer components onto real world image targets.
+The Leadership Class Computing Facility's (LCCF) High-Performance Computing (HPC) Extended Reality (XR) Supercity is a web-based augmented reality (AR) application that delivers an educational experience and interactive AR exhibit designed to help users learn how supercomputers work. The experience runs directly in a mobile web browser and overlays interactive 3D models of supercomputer components onto real world image targets.
 
 The project is built using WebXR technologies and the 8th Wall framework, enabling users to explore computing concepts through immersive interaction and visual analogies.
 
