@@ -32,7 +32,7 @@ Node.js is required to manage dependencies and run the development server.
 Recommended version:
 
 ```bash
-Node.js 20.17.2+
+Node.js 22.9.0+
 npm 10.5.0
 ```
 
