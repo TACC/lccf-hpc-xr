@@ -32,7 +32,8 @@ Node.js is required to manage dependencies and run the development server.
 Recommended version:
 
 ```bash
-Node.js 18+
+Node.js 20.17.2+
+npm 10.5.0
 ```
 
 Verify installation:
