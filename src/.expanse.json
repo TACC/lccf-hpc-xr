@@ -4659,7 +4659,7 @@
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/models/infiniband.glb"
+          "asset": "assets/models/infiniband_v2_txtr.glb"
         },
         "animationClip": "",
         "loop": true
